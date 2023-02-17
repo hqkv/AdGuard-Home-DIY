@@ -1,2 +1,5 @@
 #腾讯开屏广告
 ||teg.tencent-cloud.net^
+||pgdt.gtimg.cn^
+||vfiles.gtimg.cn^
+||puui.qpic.cn^
