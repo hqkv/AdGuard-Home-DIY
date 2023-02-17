@@ -1,2 +1,8 @@
 #腾讯视频开屏广告
 ||pgdt.gtimg.cn^
+
+#拷贝漫画app
+||mssdk-bu.bytedance.com^
+||api-access.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao-b.com^
+||sf3-fe-tos.pglstatp-toutiao.com^
