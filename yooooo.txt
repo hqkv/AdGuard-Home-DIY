@@ -19,3 +19,6 @@
 ||sdktmp.hubcloud.com.cn^
 ||ad.huazirc.com^
 ||adsdk.idmzj.com^
+
+#异世界动漫ysjdm.net
+||stgowan.com^
