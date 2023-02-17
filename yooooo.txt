@@ -6,3 +6,16 @@
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
+
+#动漫之家app
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
+||hmma.baidu.com^
+||adsdk.dmzj6.com^
+||amdcopen.m.taobao.com^
+||umengjmacs.m.taobao.com^
+||aaid.umeng.com^
+||umengacs.m.taobao.com^
+||sdktmp.hubcloud.com.cn^
+||ad.huazirc.com^
+||adsdk.idmzj.com^
