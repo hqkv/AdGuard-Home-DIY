@@ -6,6 +6,7 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 mi.gdt.qq.com
 
 #动漫之家app
 127.0.0.1 ulogs.umeng.com
