@@ -1,19 +1,23 @@
-#腾讯视频开屏广告
-127.0.0.1 pgdt.gtimg.cn
-
 #拷贝漫画app
 127.0.0.1 mssdk-bu.bytedance.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 adsdkapi.dxys.pro
+127.0.0.1 mi.gdt.qq.com
 127.0.0.1 sdk.e.qq.com
+127.0.0.1 tdid.m.qq.com
+127.0.0.1 qzs.gdtimg.com
 127.0.0.1 tnc3-bjlgy.zijieapi.com
 127.0.0.1 tnc3-alisc1.zijieapi.com
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 tnc3-aliec2.zijieapi.com
 127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 api-access.pangolin-sdk-toutiao1.com
+127.0.0.1 api-access.pangolin-sdk-toutiao2.com
+127.0.0.1 api-access.pangolin-sdk-toutiao3.com
+127.0.0.1 api-access.pangolin-sdk-toutiao4.com
+127.0.0.1 api-access.pangolin-sdk-toutiao5.com
 
 #动漫之家app
 127.0.0.1 ulogs.umeng.com
