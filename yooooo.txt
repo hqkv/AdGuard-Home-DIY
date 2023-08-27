@@ -18,6 +18,9 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao3.com
 127.0.0.1 api-access.pangolin-sdk-toutiao4.com
 127.0.0.1 api-access.pangolin-sdk-toutiao5.com
+127.0.0.1 tdid.m.qq.com
+127.0.0.1 mssdk.volces.com
+127.0.0.1 p1-lm.adukwai.com
 
 #动漫之家app
 127.0.0.1 ulogs.umeng.com
