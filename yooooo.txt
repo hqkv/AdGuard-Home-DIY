@@ -23,7 +23,18 @@
 127.0.0.1 open.e.kuaishou.com
 127.0.0.1 open.e.kuaishou.cn
 127.0.0.1 js.a.kspkg.com
+127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 p1-lm.adukwai.com
+127.0.0.1 v2-lm.adukwai.com
+127.0.0.1 v4-lm.adukwai.com
+127.0.0.1 gdfp.gifshow.com
+127.0.0.1 ulog-sdk.gifshow.com
+127.0.0.1 ali-ad.a.yximgs.com
+127.0.0.1 hw-ot-ad.a.yximgs.com
+127.0.0.1 v1-ad.video.yximgs.com
+127.0.0.1 v2-ad.video.yximgs.com
+127.0.0.1 v3-ad.video.yximgs.com
+127.0.0.1 g9hc4.cn
 
 #动漫之家app
 127.0.0.1 ulogs.umeng.com
