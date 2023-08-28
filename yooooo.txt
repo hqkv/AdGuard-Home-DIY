@@ -21,6 +21,8 @@
 127.0.0.1 tdid.m.qq.com
 127.0.0.1 mssdk.volces.com
 127.0.0.1 open.e.kuaishou.com
+127.0.0.1 open.e.kuaishou.cn
+127.0.0.1 js.a.kspkg.com
 127.0.0.1 p1-lm.adukwai.com
 
 #动漫之家app
