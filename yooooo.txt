@@ -20,6 +20,7 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao5.com
 127.0.0.1 tdid.m.qq.com
 127.0.0.1 mssdk.volces.com
+127.0.0.1 open.e.kuaishou.com
 127.0.0.1 p1-lm.adukwai.com
 
 #动漫之家app
